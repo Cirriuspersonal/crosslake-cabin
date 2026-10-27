@@ -101,7 +101,7 @@ p { margin: 0 0 14px; max-width: 66ch; }
 .gallery .g-wide { grid-column: span 2; }
 
 /* Lake band */
-.lakeband img { width: 100%; height: clamp(240px, 38vw, 520px); object-fit: cover; object-position: center 55%; }
+.lakeband img { width: 100%; height: clamp(240px, 44vw, 620px); object-fit: cover; object-position: center 50%; }
 
 /* Area: the spruce band */
 .area { background: var(--spruce); color: #e9efe9; }
