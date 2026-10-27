@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cirriuspersonal.github.io/crosslake-cabin/sitemap.xml
