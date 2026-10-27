@@ -135,6 +135,8 @@ p { margin: 0 0 14px; max-width: 66ch; }
 .book h2 { color: var(--gold); }
 .book p { margin-left: auto; margin-right: auto; }
 .book-actions { justify-content: center; margin: 26px 0 22px; }
+.widget-wrap { background: #fff; color: var(--ink); text-align: left; max-width: 960px; min-height: 120px; margin: 28px auto 8px; padding: clamp(12px, 3vw, 24px); border-radius: 8px; }
+.widget-wrap noscript a { color: var(--check); font-weight: 600; }
 .ask a { color: var(--gold); font-weight: 600; white-space: nowrap; }
 .nowrap { white-space: nowrap; }
 
