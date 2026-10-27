@@ -137,7 +137,7 @@ p { margin: 0 0 14px; max-width: 66ch; }
 .book-actions { justify-content: center; margin: 26px 0 22px; }
 .widget-wrap { background: #fff; color: var(--ink); text-align: left; max-width: 960px; min-height: 120px; margin: 28px auto 8px; padding: clamp(12px, 3vw, 24px); border-radius: 8px; }
 .widget-wrap noscript a { color: var(--check); font-weight: 600; }
-.ask a { color: var(--gold); font-weight: 600; white-space: nowrap; }
+.ask a { color: var(--gold); font-weight: 600; overflow-wrap: anywhere; }
 .nowrap { white-space: nowrap; }
 
 .foot { padding: 28px clamp(16px, 4vw, 40px); text-align: center; font-size: 14px; color: var(--muted); }
