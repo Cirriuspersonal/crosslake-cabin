@@ -7,6 +7,6 @@ Static site for the Crosslake cabin (Big Trout Lake, Crosslake, MN). Plain HTML 
 - `img/`: photos (webp) and the link-preview image.
 - `robots.txt`, `sitemap.xml`, `llms.txt`: search and AI-crawler basics.
 
-When the custom domain goes live, add a `CNAME` file with the domain and replace `cirriuspersonal.github.io/crosslake-cabin/` with it in `index.html`, `robots.txt`, `sitemap.xml` and `llms.txt`.
+Live at https://crosslakecabin.com (custom domain via the `CNAME` file; DNS at GoDaddy: four A records for @ to GitHub Pages, CNAME www to cirriuspersonal.github.io).
 
 Facts on the page come from the STR Ops Vault (COP - Ops, Hospitable settings). Change the page when those change: check-in 12:00 PM, check-out 10:00 AM, two-night minimum.
